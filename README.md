@@ -1,0 +1,4 @@
+Seminarska
+==========
+
+Minesweeper igra
